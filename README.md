@@ -1,2 +1,1 @@
 # ncaa-scores
-# ncaa-scores
